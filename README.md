@@ -1,7 +1,12 @@
 ## Hi there 👋
 here is my portfolio
 
-right now i am just testing it
+My name Is Souad I am a data scientist and teaches at a college.
+
+## Skills
+Python
+SQL
+Java
 
 <!--
 **soumimou/soumimou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
